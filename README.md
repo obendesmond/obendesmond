@@ -1,6 +1,6 @@
-### <div align="center">  Hi there, I'm Oben Desmond, a Javascript Superhero 👋 </div>
+### <div align="center">  Hi there 👋 </div>
 
-<!--
+
 **obendesmond/obendesmond** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
