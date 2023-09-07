@@ -6,7 +6,8 @@
 
 Here's who I Am
 
-- &#128640; I'm a ReactJS Expert
+- &#128640; I'm a Javascript, ReactJS and ReactTS Expert
+- &#128640; I'm an Instructor at Udemy (https://www.udemy.com/user/ako-desmond/)
 - &#128640; I’m currently learning Solidity on becoming a Fullstack Web3 Developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obendesmond&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
