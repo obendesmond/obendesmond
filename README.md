@@ -6,9 +6,10 @@
 
 Here's who I Am
 
-- &#128640; I'm a Javascript, ReactJS and ReactTS Expert
-- &#128640; I'm an Instructor at Udemy (https://www.udemy.com/user/ako-desmond/)
-- &#128640; I’m currently learning Solidity on becoming a Fullstack Web3 Developer
+- &#128640; I'm a ReactJS/TS Expert
+- &#128640; I'm an Instructor at Udemy (https://www.udemy.com/user/ako-desmond/) and also a One-on-One Tech career coach in the JS eco-system
+- &#128640; I’m currently learning Swift for iOS mobile app development
+- &#128640; I'm also perfecting my UI/UX Figma skills for app design
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obendesmond&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
