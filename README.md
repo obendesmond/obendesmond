@@ -8,8 +8,8 @@ Here's who I Am
 
 - &#128640; I'm a ReactJS/TS Expert
 - &#128640; I'm an Instructor at Udemy (https://www.udemy.com/user/ako-desmond/) and also a One-on-One Tech career coach in the JS eco-system
-- &#128640; I’m currently learning Swift for iOS mobile app development
-- &#128640; I'm also perfecting my UI/UX Figma skills for app design
+- &#128640; I’m currently perfecting my React Native skills for mobile app development
+- &#128640; I also have Svelt on my learning list 😊 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obendesmond&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
