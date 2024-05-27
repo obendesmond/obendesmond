@@ -1,6 +1,9 @@
-### <div align="center" >  Hi there 👋 </div>
+# Gifs
+
 <img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <br>
+### <div align="center" >  Hi there 👋 </div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obendesmond&label=Profile%20views&color=F09333&style=flat" alt="obendesmond" /> </p>
 
 Here's who I Am
