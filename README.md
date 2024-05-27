@@ -1,12 +1,10 @@
-### <div align="center" >  Hi there 👋 </div>
+### <div align="left" >  Hi there 👋 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obendesmond&label=Profile%20views&color=F09333&style=flat" alt="obendesmond" /> </p>
-
+<p align="right"> <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> </p>
 <br>
 
-<div style="display:flex;gap:'100px'">
-  <p>
-    Here's who I Am
+Here's who I Am
 
 - &#128640; I'm a ReactJS/TS Expert
 - &#128640; I'm an Instructor at Udemy (https://www.udemy.com/user/ako-desmond/) and also a One-on-One Tech career coach in the JS eco-system
@@ -15,9 +13,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obendesmond&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
-  </p>
-  <p align="right"> <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> </p>
-</div>
 
 <!--
 # Gifs
