@@ -11,7 +11,7 @@ Here's who I Am
 - &#128640; I’m currently perfecting my React Native skills for mobile app development
 - &#128640; I also have Svelt on my learning list 😊
 
-<p align="right" style="position:absolute;right:0;bottom:300"> 
+<p align="left" style="position:absolute;right:0;bottom:300"> 
   <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> 
 </p>
 
