@@ -4,7 +4,9 @@
 <div style="display:flex;">
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obendesmond&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-  <p align="right"> <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> </p>
+  <p align="right" style="position:absolute;right:0;bottom:300"> 
+    <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> 
+  </p>
 </div>
 
 
