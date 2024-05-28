@@ -1,15 +1,8 @@
 ### <div align="left" >  Hi there 👋 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obendesmond&label=Profile%20views&color=F09333&style=flat" alt="obendesmond" /> </p>
-<div style="display:flex;">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obendesmond&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-  <p align="right" style="position:absolute;right:0;bottom:300"> 
-    <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> 
-  </p>
-</div>
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obendesmond&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 Here's who I Am
 
@@ -18,8 +11,9 @@ Here's who I Am
 - &#128640; I’m currently perfecting my React Native skills for mobile app development
 - &#128640; I also have Svelt on my learning list 😊
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obendesmond&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="right" style="position:absolute;right:0;bottom:300"> 
+  <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> 
+</p>
 
 <!--
 # Gifs
