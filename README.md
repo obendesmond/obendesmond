@@ -10,7 +10,7 @@ Here's who I Am
 
 ### 📹 Partners
 I'm passionate about sharing my knowledge and expertise with aspiring developers and tech enthusiasts. With over 5,000 students, I have created courses that are published on various platforms.
-- Udemy \[ako-desmond\](https://www.udemy.com/user/ako-desmond/)
+- Udemy (https://www.udemy.com/user/ako-desmond/)
 - Packt Publishing
 - TutorialsPoint
 - Learnfly
