@@ -1,9 +1,5 @@
 ### <div align="left" >  Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=obendesmond&label=Profile%20views&color=F09333&style=flat" alt="obendesmond" /> </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=obendesmond&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
-
 Here's who I Am
 
 -  🖥️  See my portfolio at (http://obendesmond.com/)
@@ -24,6 +20,7 @@ I'm passionate about sharing my knowledge and expertise with aspiring developers
   <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /> 
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=obendesmond&label=Profile%20views&color=F09333&style=flat" alt="obendesmond" /> </p>
 
 ### Skills
 
