@@ -1,4 +1,4 @@
-### <div align="left" >  Hi there 👋 </div>
+### <div align="left" >  Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obendesmond&label=Profile%20views&color=F09333&style=flat" alt="obendesmond" /> </p>
 
