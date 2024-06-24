@@ -6,7 +6,7 @@ Here's who I Am
 -  I'm a (ReactJS - NodeJS)/TS Expert
 -  I'm an Instructor at Udemy (https://www.udemy.com/user/ako-desmond/) and also a One-on-One Tech career coach in the JS eco-system
 -  I’m currently perfecting my React Native skills for mobile app development
--  I also have Svelt on my learning list 😊
+-  I also have Python and Svelt on my learning list 😊
 
 ### 📹 Partners
 I'm passionate about sharing my knowledge and expertise with aspiring developers and tech enthusiasts. With over 5,000 students, I have created courses that are published on various platforms.
